@@ -102,6 +102,7 @@ Assets
                             (Particle Systems, Textures)
                 Weapons
             Gameplay
+	    	Cameras
                 Characters
                 Equipment
                 Input
